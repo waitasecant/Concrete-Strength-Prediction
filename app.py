@@ -33,8 +33,9 @@ def predict():
             ).reshape(1, 5),
         )
     )
-    # print(prediction)
-    return str(np.round(prediction[0], 2)) + str(5.854)
+    return (
+        str(np.round(prediction[0], 3)) + " " + "\N{PLUS-MINUS SIGN}" + " " + str(5.825)
+    )
 
 
 if __name__ == "__main__":
