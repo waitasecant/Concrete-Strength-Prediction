@@ -4,4 +4,4 @@ A simple concrete strength prediction dashboard hosted at https://concrete-stren
 
 A helper webpage about whats and ifs of the model building is given [*here.*](https://sites.google.com/view/waitasecant/projects/concrete-strength)
 
-![alt text](https://github.com/waitasecant/Concrete-Compressive-Strength-Prediction/blob/main/dashboard.png?raw=true)
+![alt text](https://github.com/waitasecant/Concrete-Strength-Prediction/blob/main/dashboard.png?raw=true)
