@@ -1,6 +1,6 @@
 # Concrete Compressive Strength Prediction
 
-A simple concrete strength prediction dashboard hosted at https://concrete-strength-pred-co69.onrender.com/
+A simple concrete strength prediction dashboard hosted at [https://concrete-strength-latest.onrender.com](https://concrete-strength-latest.onrender.com)
 
 A helper webpage about whats and ifs of the model building is given [*here.*](https://sites.google.com/view/waitasecant/projects/concrete-strength)
 
